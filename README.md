@@ -29,7 +29,7 @@ O código funcional do backend e do frontend será desenvolvido a partir do 2º 
 
 ## Documentação completa
 
-O documento de arquitetura e requisitos (AEP 1º Bimestre), com a descoberta do problema, os stakeholders, a matriz de rastreabilidade, a justificativa técnica e os diagramas de classes e de banco de dados, está disponível em [`docs/1-AEP_1Bimestre_Marido_de_Aluguel-NOVO.pdf](docs/1-AEP_1Bimestre_Marido_de_Aluguel-NOVO.pdf).
+O documento de arquitetura e requisitos (AEP 1º Bimestre), com a descoberta do problema, os stakeholders, a matriz de rastreabilidade, a justificativa técnica e os diagramas de classes e de banco de dados, está disponível em [`docs/1-AEP_1Bimestre_Marido_de_Aluguel-NOVO.pdf](docs/1-AEP_1Bimestre_Marido_de_Aluguel.pdf).
 
 ## Lista de requisitos funcionais
 
@@ -72,7 +72,7 @@ O documento de arquitetura e requisitos (AEP 1º Bimestre), com a descoberta do 
 - **Banco de dados:** PostgreSQL, acessado por meio de uma API REST.
 - **Frontend:** aplicação de página única (SPA) em HTML, CSS e JavaScript puro.
 
-A justificativa completa dessas escolhas está na seção 5 do documento em [`docs/1-AEP_1Bimestre_Marido_de_Aluguel-NOVO.pdf`](docs/1-AEP_1Bimestre_Marido_de_Aluguel-NOVO.pdf).
+A justificativa completa dessas escolhas está na seção 5 do documento em [`docs/1-AEP_1Bimestre_Marido_de_Aluguel-NOVO.pdf`](docs/1-AEP_1Bimestre_Marido_de_Aluguel.pdf).
 
 ## Diagramas
 
